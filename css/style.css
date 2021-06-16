@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+@font-face {
+    font-family: 'Android';
+    src: url(../fonts/idroid.otf);
+}
+
+:root {
+    --fundo: #8EE1C0;
+    --principal: #49DBA1;
+}
+
+body {
+    background-color: var(--fundo);
+}
