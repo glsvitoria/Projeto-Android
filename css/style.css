@@ -215,13 +215,17 @@ footer div.social {
     padding-top: 1rem;
 }
 
-footer ddiv.social a:hover {
+footer .social > a:hover {
     transform: translateY(-0.8rem);
+}
+
+footer .social > a {
+    transition-duration: 0.5s;
+    display: inline-block;
 }
 
 footer .social a i {
     font-size: 1.5rem;
     padding: 0.2em;
     color: white;
-    transition-duration: 0.5s;
 }
