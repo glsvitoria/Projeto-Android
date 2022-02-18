@@ -23,7 +23,7 @@
 ### Como rodar o projeto
 
  1. Primeiramente é necessário ter o node js instalado(caso não tenha, apenas baixe a pasta zip do projeto) 
- 2. Clone o projeto com `git clone https://github.com/glsvitoria/projeto-curso-em-video.git`
+ 2. Clone o projeto com `git clone https://github.com/glsvitoria/Projeto-Android.git`
  3. Após clonar o projeto, basta apenas abrir o html principal do site e utilizar as suas funcionalidades
 
 ### Screenshot
